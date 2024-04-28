@@ -2,13 +2,14 @@
 <h3 align="center">A passionate Full-stack developer from Turkey</h3>
 <img src="https://komarev.com/ghpvc/?username=Furkan-Ayakdas&&style=plastics&&color=yellow" align="right"/> </p>
 <br>
+
 <div id="header" align="center">
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300"/>
 
 <h2 dir="auto"><a id="user-content-necktie-about-me" class="anchor" aria-hidden="true" href="#necktie-about-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z">
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%CC00FF&lines=Welcome+To+My+Page+-+Stay+Tuned+!!)
-### </path></svg></a> My Project participated in the smart transportation competition as the last project in Teknofest 2022. My project was published in 5th ICONSEC transactions. Another project I developed with IoT-based autonomous systems received support from TUBITAK 2209-A in 2023. ✅ </h2>
 
+### </path></svg></a> My Project participated in the smart transportation competition as the last project in Teknofest 2022. My project was published in 5th ICONSEC transactions. Another project I developed with IoT-based autonomous systems received support from TUBITAK 2209-A in 2023. ✅ </h2>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%CC00FF&lines=Welcome+To+My+Page+-+Stay+Tuned+!!)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
