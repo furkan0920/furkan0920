@@ -1,5 +1,13 @@
 <h1 align="center">Hi 👋, I'm Furkan Ayakdaş</h1>
 <h3 align="center">A passionate Full-stack developer from Turkey</h3>
+<img src="https://komarev.com/ghpvc/?username=Furkan-Ayakdas&&style=plastics&&color=yellow" align="right"/> </p>
+<br>
+<div id="header" align="center">
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300"/>
+</path></svg></a> My Project participated in the smart transportation competition as the last project in Teknofest 2022. My project was published in 5th ICONSEC transactions. Another project I developed with IoT-based autonomous systems received support from TUBITAK 2209-A in 2023. ✅ </h2>
+
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%CC00FF&lines=Welcome+To+My+Page+-+Stay+Tuned+!!)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
