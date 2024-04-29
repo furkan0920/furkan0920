@@ -15,6 +15,23 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/furkan-ayakdaş-4001771b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/furkan-ayakdaş-4001771b8/" height="30" width="40" /></a>
 </p>
+<h2 align="center"></h2>
+<br>
+<!---
+--->
+ <div align="center"> 
+
+  <a href="https://tr.linkedin.com/in/furkan-k%C3%BCm%C3%BC%C5%9F-07aa65237" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=blue" target="_blank">
+  </a>
+  <a href = "mailto:furkanayakdas@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=reed" target="_blank">
+  </a>
+
+
+</div>
+
+<h2 align="center"></h2>
 <h3 align="left">💻Languages and Tools:</h3>
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
